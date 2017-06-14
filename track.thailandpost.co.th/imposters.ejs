@@ -1,0 +1,33 @@
+{
+  "port": "6001",
+  "name": "track.thailandpost.co.th",
+  "protocol": "http",
+  "stubs": [
+        {
+          "predicates": [<% include TrackandTrace/LIMIT_predicate.ejs %>],
+          "responses": [<% include TrackandTrace/LIMIT_response.ejs %>]
+        },
+        {
+          "predicates": [<% include TrackandTrace/STATUS_010_predicate.ejs %>],
+          "responses": [<% include TrackandTrace/STATUS_010_response.ejs %>]
+        },
+        {
+          "predicates": [<% include TrackandTrace/STATUS_010_EY405004739TH_predicate.ejs %>],
+          "responses": [<% include TrackandTrace/STATUS_010_EY405004739TH_response.ejs %>]
+        },
+        {
+          "predicates": [<% include TrackandTrace/STATUS_012_predicate.ejs %>],
+          "responses": [<% include TrackandTrace/STATUS_012_response.ejs %>]
+        },
+        {
+          "responses": [
+            {
+              "proxy": {
+                "to": "http://track.thailandpost.co.th",
+                "mode": "proxyAlways"
+              }
+            }
+          ]
+        }
+  ]
+}

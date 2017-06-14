@@ -1,0 +1,25 @@
+{
+  "and":[
+    {
+      "equals": {
+                  "path": "/webservice/getOrderByBarcodes",
+                  "method": "POST"
+                }
+    },
+    {
+      "contains":{
+                    "body": "barcodes"
+                 }
+    },
+    {
+      "contains":{
+                    "body": "EY40"
+                 }
+    }
+  ],
+  "path": "/webservice/getOrderByBarcodes",
+  "method": "POST",
+  "headers": {
+    "content-type": "application/json"
+  }
+}

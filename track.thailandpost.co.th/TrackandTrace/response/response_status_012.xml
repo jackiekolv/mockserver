@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <soap:Body>
+        <GetItemsResponse xmlns="http://www.xmlforasp.net">
+            <GetItemsResult>
+                <ItemsData>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>007 </Status>
+                        <StatusName>Items Into Container</StatusName>
+                        <Description />
+                        <DateTime>21/04/2017 15:18</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>PHASI CHAROEN</Location>
+                        <DeliveryDateTime />
+                        <PostCode>10160</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>008 </Status>
+                        <StatusName>Dispatch</StatusName>
+                        <Description />
+                        <DateTime>21/04/2017 15:29</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>PHASI CHAROEN</Location>
+                        <DeliveryDateTime />
+                        <PostCode>10160</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>001 </Status>
+                        <StatusName>Accept</StatusName>
+                        <Description />
+                        <DateTime>21/04/2017 19:31</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>Bangkok EMS Centre</Location>
+                        <DeliveryDateTime />
+                        <PostCode>10020</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>007 </Status>
+                        <StatusName>Items Into Container</StatusName>
+                        <Description />
+                        <DateTime>22/04/2017 01:10</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>Bangkok EMS Centre</Location>
+                        <DeliveryDateTime />
+                        <PostCode>10020</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>008 </Status>
+                        <StatusName>Dispatch</StatusName>
+                        <Description />
+                        <DateTime>22/04/2017 01:47</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>Bangkok EMS Centre</Location>
+                        <DeliveryDateTime />
+                        <PostCode>10020</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>008 </Status>
+                        <StatusName>Dispatch</StatusName>
+                        <Description />
+                        <DateTime>22/04/2017 01:47</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>Bangkok EMS Centre</Location>
+                        <DeliveryDateTime />
+                        <PostCode>10020</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>010 </Status>
+                        <StatusName>Container Received</StatusName>
+                        <Description />
+                        <DateTime>22/04/2017 14:23</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>DEN CHAI MAIL CENTER</Location>
+                        <DeliveryDateTime />
+                        <PostCode>54010</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>007 </Status>
+                        <StatusName>Items Into Container</StatusName>
+                        <Description />
+                        <DateTime>22/04/2017 17:34</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>DEN CHAI MAIL CENTER</Location>
+                        <DeliveryDateTime />
+                        <PostCode>54010</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>008 </Status>
+                        <StatusName>Dispatch</StatusName>
+                        <Description />
+                        <DateTime>22/04/2017 17:41</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>DEN CHAI MAIL CENTER</Location>
+                        <DeliveryDateTime />
+                        <PostCode>54010</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>010 </Status>
+                        <StatusName>Container Received</StatusName>
+                        <Description />
+                        <DateTime>24/04/2017 10:31</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>KHUN TAN</Location>
+                        <DeliveryDateTime />
+                        <PostCode>57340</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>011 </Status>
+                        <StatusName>Out for Delivery</StatusName>
+                        <Description />
+                        <DateTime>24/04/2017 12:22</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>KHUN TAN</Location>
+                        <DeliveryDateTime />
+                        <PostCode>57340</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>012 </Status>
+                        <StatusName>Delivery Status</StatusName>
+                        <Description>Licensed Post Office</Description>
+                        <DateTime>24/04/2017 00:00</DateTime>
+                        <Signature>
+            </Signature>
+                        <Location>KHUN TAN</Location>
+                        <DeliveryDateTime>24/04/2017 1200-1629</DeliveryDateTime>
+                        <PostCode>57340</PostCode>
+                    </Items>
+                    <Items>
+                        <Barcode>EY00STATUS012</Barcode>
+                        <Status>012 </Status>
+                        <StatusName>Delivery Status</StatusName>
+                        <Description>Successful</Description>
+                        <DateTime>02/05/2017 00:00</DateTime>
+                        <Signature>จิราภรณ์/รับเอง</Signature>
+                        <Location>KHUN TAN</Location>
+                        <DeliveryDateTime>02/05/2017 0900-1159</DeliveryDateTime>
+                        <PostCode>57340</PostCode>
+                    </Items>
+                </ItemsData>
+                <TrackCountData>
+                    <TrackDate>10/06/2017</TrackDate>
+                    <TrackStatus>Successfull</TrackStatus>
+                    <CountNumber>3606</CountNumber>
+                </TrackCountData>
+            </GetItemsResult>
+        </GetItemsResponse>
+    </soap:Body>
+</soap:Envelope>

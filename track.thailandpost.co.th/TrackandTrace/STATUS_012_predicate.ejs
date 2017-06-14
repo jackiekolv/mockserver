@@ -1,0 +1,26 @@
+{
+  "and":[
+    {
+      "contains": {
+                  "path": "/TTPOSTWebService/TrackandTrace.asmx",
+                  "method": "POST"
+                }
+    },
+    {
+      "contains":{
+        "body": "GetItems"
+      }
+    },
+    {
+      "contains":{
+        "body": "EY00STATUS012"
+      }
+    }
+  ],
+  "path": "/TTPOSTWebService/TrackandTrace.asmx?wsdl",
+  "method": "POST",
+  "headers": {
+    "content-type": "text/xml",
+    "SOAPAction": "\"\""
+  }
+}

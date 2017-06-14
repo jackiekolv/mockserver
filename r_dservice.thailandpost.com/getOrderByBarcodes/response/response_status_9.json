@@ -1,0 +1,30 @@
+[
+  {
+    "invNo": "EY405321060TH",
+    "barcode": "EY405321060TH",
+    "customerName": "ศิรินทร์ สิกขมาน",
+    "customerAddress": "206/17 ง ตรงข้ามปากซอย 8 ถ.เจษฎาวิกี ต.มหาชัย",
+    "customerAmphur": "อำเภอเมืองสมุทรสาคร",
+    "customerProvince": "สมุทรสาคร",
+    "customerZipcode": "74000",
+    "productPrice": 120,
+    "productWeight": 192,
+    "emsPrice": 50,
+    "servicePrice": 30,
+    "insurancePrice": 0,
+    "status": "9",
+    "statusDescription": "นำจ่าย/ชำระเงินเรียบร้อย",
+    "remark": "",
+    "signature": "",
+    "createdDate": "28/04/2017 12:52:07",
+    "receivedDate": "02/05/2017 10:34:06",
+    "deliverdDate": "04/05/2017 08:35:34",
+    "postcodeName": "ยานนาวา",
+    "provinceName": "กรุงเทพฯ",
+    "regionName": "ปน.ใต้",
+    "merchantId": null,
+    "storelocationNo": "",
+    "storelocationName": "",
+    "storelocationPostcode": ""
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "mockserver",
+  "version": "0.2.6",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "scripts": {
+    "start": "mb --configfile imposters.ejs --loglevel debug"
+  },
+  "dependencies": {
+    "mountebank": "1.11.0"
+  },
+  "license": "MIT"
+}

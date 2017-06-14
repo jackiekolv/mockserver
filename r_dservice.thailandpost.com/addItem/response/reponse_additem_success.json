@@ -1,0 +1,6 @@
+{
+  "_comment": "This is a mock response.",
+  "errorCode": "000",
+  "errorDetail": "success",
+  "status":"true"
+}
