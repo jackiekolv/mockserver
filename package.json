@@ -6,10 +6,14 @@
     "node": "6.10.2"
   },
   "scripts": {
-    "start": "mb --configfile imposters.ejs --loglevel debug"
+    "start": "node prepair.js \n mb --configfile imposters.ejs --loglevel info"
   },
   "dependencies": {
     "mountebank": "1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackiekolv/mockserver"
   },
   "license": "MIT"
 }
